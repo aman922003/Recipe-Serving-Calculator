@@ -13,7 +13,7 @@
                         <option value="{{ $key }}">{{ $label }}</option>
                     @endforeach
                 </select>
-            </div>sadsdsdsd
+            </div>
 
             <div class="flex items-center gap-2">
                 <button id="decrease" class="bg-gray-300 hover:bg-gray-400 px-3 py-1 rounded">-</button>
