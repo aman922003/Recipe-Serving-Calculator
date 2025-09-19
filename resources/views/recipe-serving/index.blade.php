@@ -22,7 +22,7 @@
             </div>
 
             <div class="mt-4">
-                <h2 class="text-lg font-semibold">Scaled Meadffdfdsurement:</h2>
+                <h2 class="text-lg font-semibold">Scaled Measurement:</h2>
                 <p id="scaledResult" class="text-xl font-mono mt-2 text-blue-600">0</p>
             </div>
         </div>
