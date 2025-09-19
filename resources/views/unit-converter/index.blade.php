@@ -40,6 +40,7 @@
                 <tr class="hover:bg-yellow-50">
                     <td class="border px-3 py-2">{{ $units[$unit] }}</td>
                     <td class="border px-3 py-2 font-mono">{{ $value }}</td>
+                    <td class="border px-3 py-2 font-mono">{{ $value }}</td>
                 </tr>
                 @endforeach
             </tbody>
